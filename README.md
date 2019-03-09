@@ -1,3 +1,3 @@
 # 2019-03-09_UCSF_SWC_git_demo
 This is a demo repo for teaching GitHub and git at Software Carpentry workshop held at UCSF Mission Bay.
-This was created on my laptop.
+This was created on my laptop and on GitHub.
